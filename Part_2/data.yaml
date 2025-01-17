@@ -1,0 +1,11 @@
+train: /home/pavan/Desktop/deep-learning-assignment-codepk37/Part_2/dataset/train/images  # Path to the training images
+val: /home/pavan/Desktop/deep-learning-assignment-codepk37/Part_2/dataset/val/images      # Path to the validation images
+test: /home/pavan/Desktop/deep-learning-assignment-codepk37/Part_2/dataset/test/images    # Path to the test images
+
+train_labels: /home/pavan/Desktop/deep-learning-assignment-codepk37/Part_2/dataset/train/labels  # Path to training labels
+val_labels: /home/pavan/Desktop/deep-learning-assignment-codepk37/Part_2/dataset/val/labels      # Path to validation labels
+test_labels: /home/pavan/Desktop/deep-learning-assignment-codepk37/Part_2/dataset/test/labels    # Path to test labels
+
+
+nc: 10  # Number of classes (digits 0-9)
+names: ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']  # Class names
